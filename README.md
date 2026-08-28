@@ -6,8 +6,10 @@ https://github.com/user-attachments/assets/2e24e5de-4b95-4391-adfa-f816e7f09ee7
 
 
 一套可复用的 Codex Skill：从角色参考图或现成 4×2 图板出发，整理 Gemini 约 10 秒动画提示词，并把返回的视频在本地切割成透明 APNG、GIF、预览图与 ZIP 表情包。
+<img width="1280" height="640" alt="预览_8格透明表情" src="https://github.com/user-attachments/assets/4affc90b-ba5c-40d3-ab6c-81238ac405ec" />
 
-整个切割阶段在本地运行，不依赖 StickerFaster，不购买点数，也不会上传源视频。
+
+整个切割阶段在本地运行。
 
 ## 能做什么
 
