@@ -1,5 +1,10 @@
 # Animated Sticker Board Cutter
 
+
+https://github.com/user-attachments/assets/2e24e5de-4b95-4391-adfa-f816e7f09ee7
+
+
+
 一套可复用的 Codex Skill：从角色参考图或现成 4×2 图板出发，整理 Gemini 约 10 秒动画提示词，并把返回的视频在本地切割成透明 APNG、GIF、预览图与 ZIP 表情包。
 
 整个切割阶段在本地运行，不依赖 StickerFaster，不购买点数，也不会上传源视频。
