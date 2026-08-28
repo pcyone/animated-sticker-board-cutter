@@ -1,0 +1,7 @@
+interface:
+  display_name: "动态表情包完整工作流"
+  short_description: "从4×2角色图、Gemini动画提示词到透明动态表情导出"
+  brand_color: "#31C48D"
+  default_prompt: "Use $animated-sticker-board-cutter to create a 4×2 character board, write the Gemini animation prompt, and export the returned video as transparent stickers."
+policy:
+  allow_implicit_invocation: true
