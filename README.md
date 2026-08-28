@@ -123,3 +123,9 @@ python3 skills/animated-sticker-board-cutter/scripts/export_sticker_board.py \
 ## 适用边界
 
 适合固定镜头、固定格位、白色或近白色背景的视频。不适合复杂场景、角色跨格、镜头移动、频繁切镜或背景持续变色的视频。
+
+关于作者：
+2019年加入Crypto，ETH & BTC Holder |  Alpha在职  | Defi  | 空投  | 打新  | 早期项目研究 | 港股打新 | 持续分享 AI 内容、自动化、开发与产品实践；
+实用教程｜工作流｜创意实验｜构建记录
+个人站：http://ryanai.top
+微信：ryanpeng999
